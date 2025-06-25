@@ -1,0 +1,98 @@
+[
+    {
+        "id": "100",
+        "name": "Katrine",
+        "img": "../../assets/images/slider/1.jpg",
+        "type": "Dog",
+        "breed": "Husky",
+        "description": "Katrine is a 4-year-old tuxedo cat who loves to cuddle and play with yarn balls. She enjoys sunbathing by the window and is eager to find a loving family to share her joyful spirit with.",
+        "age": "4 years",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "101",
+        "name": "Jennifer",
+        "img": "../../assets/images/slider/2.jpg",
+        "type": "Dog",
+        "breed": "Labrador",
+        "description": "Jennifer is a 6-month-old puppy who loves to play fetch and splash around in water. His favorite pastime is snuggling up with his humans after a long day of adventures, and he's eager to find a forever home filled with love and fun.",
+        "age": "6 months",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "102",
+        "name": "Woody",
+        "img": "../../assets/images/slider/3.jpg",
+        "type": "Dog",
+        "breed": "Labrador",
+        "description": "Woody is a 3-year-old Golden Retriever who enjoys going on long walks and exploring new scents. He loves to play with his favorite squeaky toys and is always ready to shower his future family with affection and loyalty.",
+        "age": "3 years",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "103",
+        "name": "Sophia",
+        "img": "../../assets/images/slider/4.jpg",
+        "type": "Dog",
+        "breed": "Tsang Apso",
+        "description": "Sophia is a 5-month-old puppy who loves to play with his friends at the park and chew on his favorite squeaky toys. His favorite activity is running around and exploring new sights, and he's eager to find a loving home where he can grow and bring joy to his family.",
+        "age": "5 months",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "104",
+        "name": "Timmy",
+        "img": "../../assets/images/slider/5.jpg",
+        "type": "Cat",
+        "breed": "Siamese",
+        "description": "​This delightful cat loves to play with string toys and curl up on a warm lap for cuddles. He is 3 years old and is a handsome Siamese, known for his striking blue eyes and affectionate nature. Ready to find his forever home, he promises to bring joy and companionship to his new family!",
+        "age": "3 years",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "105",
+        "name": "Charly",
+        "img": "../../assets/images/slider/6.jpg",
+        "type": "Cat",
+        "breed": "Shorthair",
+        "description": "This adorable cat loves to curl up in sunny spots and play with feather toys. She is 2 years old and is a domestic shorthair, known for her affectionate nature. Looking for her forever home, she is ready to fill your life with love and companionship!",
+        "age": "2 years",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "106",
+        "name": "Scarlett",
+        "img": "../../assets/images/slider/7.jpg",
+        "type": "Dog",
+        "breed": "Mixed",
+        "description": "This adorable dog loves to play with toys and enjoys long walks in the park. She is 3 years old and is a mixed breed, making her unique and incredibly friendly. Still searching for her forever home, she brings joy and warmth to everyone she meets!",
+        "age": "3 years",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    },
+    {
+        "id": "107",
+        "name": "Freddie",
+        "img": "../../assets/images/slider/8.jpg",
+        "type": "Cat",
+        "breed": "Mixed",
+        "description": "​​This charming cat enjoys lounging in cozy corners and chasing after toy mice. He is 4 years old and is a playful tabby, known for his friendly personality. Eager to find his forever home, he will bring joy and warmth to any household!",
+        "age": "4 years",
+        "inoculations": ["none"],
+        "diseases": ["none"],
+        "parasites": ["none"]
+    }
+]

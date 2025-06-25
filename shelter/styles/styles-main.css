@@ -1,0 +1,88 @@
+.header-main-page {
+  background: transparent;
+}
+
+.header-main-page .logo-title {
+  color: #f1cdb3;
+}
+
+.header-main-page .logo-subtitle {
+  color: #ffffff;
+}
+
+.nav-burger-line {
+  background-color: #f1cdb3;
+}
+
+.section.main-page {
+  margin-top: -120px;
+  padding-top: 100px;
+  background: repeat 0 0 url("../assets/images/noise-lines.png"),
+    radial-gradient(100% 215.42% at 0% 0%, #5b483a 0%, #262425 100%);
+}
+
+.main-page .section-inner {
+  padding-bottom: 0;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 0;
+  padding-top: 60px;
+  flex-wrap: nowrap;
+}
+
+.main-page .section-column {
+  width: auto;
+  margin-top: 20px;
+  transition: margin 0.2s;
+}
+
+.main-page .section-column:first-child {
+  width: 40vw;
+  max-width: 470px;
+  margin-top: 182px;
+  align-self: flex-start;
+  transition: margin-top 0.2s, width 0.2s;
+}
+
+.main-page-image {
+  width: auto;
+  max-width: 100%;
+  min-width: 400px;
+  transition: width 0.2s;
+}
+
+.main-page .section-title {
+  padding: 0px 0 42px 0;
+  font-size: 44px;
+  line-height: 57.2px;
+  color: #fff;
+  letter-spacing: 0.1px;
+}
+
+.main-page .section-text {
+  padding: 0 0 42px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #cdcdcd;
+  transition: width 0.2s;
+}
+
+.donation-section {
+  gap: 32px;
+}
+
+.donation-section h2 {
+  padding-top: 0;
+  padding-bottom: 21px;
+}
+
+.donation-section .section-column-img {
+  padding-top: 10px;
+}
+
+.donation-section .section-column-img + .section-column {
+  max-width: 380px;
+}
+
+.donation-section .sub-text {
+  padding-bottom: 0;
+}
